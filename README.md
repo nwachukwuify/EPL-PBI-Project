@@ -29,7 +29,7 @@ Publicly available English Premier League datasets used for educational purposes
 - Translating business or domain questions into visual insights  
 
 ## Disclaimer
-This project was completed as part of a class assignment and is intended solely for learning and portfolio demonstration purposes. It is not affiliated with or endorsed by the English Premier League.
+This work was completed as part of a project and is intended solely for portfolio demonstration purposes. It is not affiliated with or endorsed by the English Premier League.
 
 
 ## How to Use
