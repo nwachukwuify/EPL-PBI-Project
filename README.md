@@ -31,8 +31,3 @@ Publicly available English Premier League datasets used for educational purposes
 ## Disclaimer
 This work was completed as part of a project and is intended solely for portfolio demonstration purposes. It is not affiliated with or endorsed by the English Premier League.
 
-
-## How to Use
-1. Download the `.pbix` file from this repository  
-2. Open it using **Power BI Desktop**  
-3. Explore the dashboard using the interactive filters and visuals  
